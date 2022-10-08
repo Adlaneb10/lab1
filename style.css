@@ -1,0 +1,23 @@
+div {
+    width: 75%;
+    margin: auto;
+}
+
+input, button {
+    padding: 15px;
+    display: inline-block;
+
+}
+
+
+li {
+    font-size: 20px;
+    margin-left: -40px;
+    list-style: none;
+    border: 1px solid black;
+    height: 200px;
+}
+
+ul {
+    background-color: aqua;
+}
